@@ -2,10 +2,9 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mirathis Docs",
+  "homepage": "get-started/how-it-works",
   "colors": {
-    "primary": "#0F766E",
-    "light": "#5EEAD4",
-    "dark": "#115E59"
+    "primary": "#1a1a1a"
   },
   "favicon": "/favicon.svg",
   "navigation": {
