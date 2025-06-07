@@ -4,9 +4,9 @@
   "name": "Mirathis",
   "homepage": "get-started/how-it-works",
   "colors": {
-    "primary": "#e5e7eb",
-    "light": "#f3f4f6",
-    "dark": "#9ca3af"
+    "primary": "#8b5cf6",
+    "light": "#a78bfa",
+    "dark": "#7c3aed"
   },
   "favicon": "/favicon.svg",
   "navigation": {
