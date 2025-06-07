@@ -13,20 +13,23 @@
     "groups": [
       {
         "group": "Get Started",
+        "icon": "rocket",
         "pages": ["get-started/how-it-works"]
       },
       {
         "group": "Ways to Reach Mirathis",
+        "icon": "phone",
         "pages": [
-          "ways-to-reach-mirathis/phone-calls",
-          "ways-to-reach-mirathis/sms",
-          "ways-to-reach-mirathis/whatsapp",
-          "ways-to-reach-mirathis/email",
-          "ways-to-reach-mirathis/slack"
+          "ways-to-reach/phone-calls",
+          "ways-to-reach/sms",
+          "ways-to-reach/whatsapp",
+          "ways-to-reach/email",
+          "ways-to-reach/slack"
         ]
       },
       {
         "group": "Integrations",
+        "icon": "plug",
         "pages": [
           "integrations/calendar",
           "integrations/inbox",
@@ -36,6 +39,7 @@
       },
       {
         "group": "Tools",
+        "icon": "wrench",
         "pages": [
           "tools/reminders",
           "tools/todos",
@@ -49,8 +53,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
