@@ -1,51 +1,49 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mirathis Docs",
+  "name": "Mirathis",
   "homepage": "get-started/how-it-works",
   "colors": {
-    "primary": "#1a1a1a"
+    "primary": "#000000",
+    "light": "#333333",
+    "dark": "#000000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Mirathis",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": ["get-started/how-it-works"]
-          },
-          {
-            "group": "Ways to Reach Mirathis",
-            "pages": [
-              "ways-to-reach/phone-calls",
-              "ways-to-reach/sms",
-              "ways-to-reach/whatsapp",
-              "ways-to-reach/email",
-              "ways-to-reach/slack"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "pages": [
-              "integrations/calendar",
-              "integrations/inbox",
-              "integrations/texting-and-calling"
-            ]
-          },
-          {
-            "group": "Tools",
-            "pages": [
-              "tools/reminders",
-              "tools/todos",
-              "tools/notes",
-              "tools/briefings",
-              "tools/shortcuts",
-              "tools/search",
-              "tools/roadmap"
-            ]
-          }
+        "group": "Get Started",
+        "pages": ["get-started/how-it-works"]
+      },
+      {
+        "group": "Ways to Reach Mirathis",
+        "pages": [
+          "ways-to-reach-mirathis/phone-calls",
+          "ways-to-reach-mirathis/sms",
+          "ways-to-reach-mirathis/whatsapp",
+          "ways-to-reach-mirathis/email",
+          "ways-to-reach-mirathis/slack"
+        ]
+      },
+      {
+        "group": "Integrations",
+        "pages": [
+          "integrations/calendar",
+          "integrations/inbox",
+          "integrations/texting-and-calling",
+          "integrations/slack"
+        ]
+      },
+      {
+        "group": "Tools",
+        "pages": [
+          "tools/reminders",
+          "tools/todos",
+          "tools/notes",
+          "tools/briefings",
+          "tools/shortcuts",
+          "tools/search",
+          "tools/roadmap"
         ]
       }
     ]
