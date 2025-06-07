@@ -8,16 +8,16 @@
     "light": "#a78bfa",
     "dark": "#7c3aed"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "groups": [
       {
-        "group": "Get Started",
+        "group": "Getting Started",
         "icon": "rocket",
         "pages": ["get-started/how-it-works"]
       },
       {
-        "group": "Ways to Reach Mirathis",
+        "group": "Communication Channels",
         "icon": "phone",
         "pages": [
           "ways-to-reach/phone-calls",
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "group": "Integrations",
+        "group": "Connected Apps",
         "icon": "plug",
         "pages": [
           "integrations/calendar",
